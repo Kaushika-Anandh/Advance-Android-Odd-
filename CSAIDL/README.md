@@ -1,38 +1,45 @@
-# Ex.No:2 Create a simple application client and server service using AIDL interface in android studio.
-
-
+Exp.No : 02 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 04.04.2023 
+<br>
+# AIDL 
 ## AIM:
-
 To create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio.
-
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Min.required Artic Fox)
-
 ## ALGORITHM:
-
-Step 1: Open Android Stdio and then click on File -> New -> New project.
-
-Step 2: Then type the Application name as CSAIDL and click Next. 
-
-Step 3: Then select the Minimum SDK as shown below and click Next.
-
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-
-Step 5: Design layout in activity_main.xml.
-
-Step 6: Display message give in MainActivity file(client/server).
-
-Step 7: Save and run the application.
+- **Step 1:** Open Android Stdio and then click on File -> New -> New project.
+- **Step 2:** Then type the Application name as CSAIDL and click Next. 
+- **Step 3:** Then select the Minimum SDK as shown below and click Next.
+- **Step 4:** Then select the Empty Activity and click Next. Finally click Finish.
+- **Step 5:** Design layout in activity_main.xml.
+- **Step 6:** Display message give in MainActivity file(client/server).
+- **Step 7:** Save and run the application.
 
 ## PROGRAM:
-```
-/*
-Program to print the client/server services using AIDL”.
-Developed by: Kaushika A
-Registeration Number : 212221230048
-*/
-```
+> Program to print the client/server services using AIDL<br> Developed by: Kaushika A <br> Registeration Number : 212221230048
+
 ### activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -192,11 +199,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 }
 ```
 ## OUTPUT
-![](1.PNG)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/CSAIDL/1.PNG" width="600" height="330">
 
-![](2.PNG)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/CSAIDL/2.PNG" width="600" height="330">
 
-![](3.PNG)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/CSAIDL/3.PNG" width="330" height="470">
 
 ## RESULT
 Thus a Simple Android Application to create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio is developed and executed successfully.
