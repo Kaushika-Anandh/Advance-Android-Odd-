@@ -1,39 +1,48 @@
-# Ex.No:6 Create a simple application to request storage and camera permission at RunTime using android studio.
-
+Exp.No : 06 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 06.06.2023 
+<br>
+# RunTime Permission
 ## AIM:
-
 To develop a simple application for RunTime Permission in Android Studio.
-
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Min.required Artic Fox)
-
 ## ALGORITHM:
+- **Step 1:** Open Android Stdio and then click on File -> New -> New project.
+- **Step 2:** Then type the Application name as runtimepermission and click Next.
+- **Step 3:** Then select the Minimum SDK as shown below and click Next.
+- **Step 4:** Then select the Empty Activity and click Next. Finally click Finish.
+- **Step 5:** Design layout in activity_main.xml.
+- **Step 6:** Display process of runtimepermission in android mobile devices.
+- **Step 7:** Save and run the application.
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+## PROGRAM:
+> Simple application for RunTime Permission in Android Studio. <br> Developed by: Kaushika A <br> Registeration Number : 212221230048
 
-Step 2: Then type the Application name as runtimepermission and click Next.
 
-Step 3: Then select the Minimum SDK as shown below and click Next.
-
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-
-Step 5: Design layout in activity_main.xml.
-
-Step 6: Display process of runtimepermission in android mobile devices.
-
-Step 7: Save and run the application.
-
-```
-/*
-Developed by: Kaushika A
-Registeration Number : 212221230048
-*/
-```
-
-## MainActivity.java
-
-```
+### MainActivity.java
+```java
 package com.example.runtimepermission;
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -120,9 +129,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## Activity.xml
-
-```
+### activity_main.xml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -209,11 +217,11 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![](1.jpeg)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/RunTimePermission/2.png" width="600" height="330">
 
-![](2.png)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/RunTimePermission/3.png" width="600" height="330">
 
-![](3.png)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/RunTimePermission/1.jpeg" width="250" height="470">
 
 ## RESULT
 
