@@ -1,5 +1,29 @@
-
-# Ex.No:1 To create a database table and to display the database table field using SQLite Database in Android Studio.
+Exp.No : 01 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 21.03.2023 
+<br>
+# To create a database table and to display the database table field using SQLite Database in Android Studio.
 
 
 ## AIM:
@@ -12,28 +36,18 @@ Android Studio(Min.required Artic Fox)
 
 ## ALGORITHM:
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
-
-Step 2: Then type the Application name as HelloWorld and click Next. 
-
-Step 3: Then select the Minimum SDK as shown below and click Next.
-
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-
-Step 5: Design layout in activity_main.xml.
-
-Step 6: Display message give in MainActivity file.
-
-Step 7: Save and run the application.
+- **Step 1:** Open Android Stdio and then click on File -> New -> New project.
+- **Step 2:** Then type the Application name as HelloWorld and click Next. 
+- **Step 3:** Then select the Minimum SDK as shown below and click Next.
+- **Step 4:** Then select the Empty Activity and click Next. Finally click Finish.
+- **Step 5:** Design layout in activity_main.xml.
+- **Step 6:** Display message give in MainActivity file.
+- **Step 7:** Save and run the application.
 
 ## PROGRAM:
-```
-/*
-Program to print the DatabaseTable using the SQLite”.
-Developed by: Kaushika A
-Registeration Number : 212221230048
-*/
-```
+
+> Program to print the DatabaseTable using the SQLite <br> Developed by: Kaushika A <br> Registeration Number : 212221230048 
+
 ### activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -334,10 +348,9 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 ## OUTPUT
-![](op1.png)
-![](op2.png)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/SQLiteDatabase/op1.png" width="600" height="330">
 
-
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/SQLiteDatabase/op2.png" width="330" height="430">
 
 ## RESULT
 Thus a Simple Android Application create a dtatabase table and to display the database table  using SQLite Database in Android Studio is developed and executed successfully.
