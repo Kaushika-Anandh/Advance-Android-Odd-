@@ -23,7 +23,7 @@ Exp.No : 01
 &emsp;
 Date : 21.03.2023 
 <br>
-# To create a database table and to display the database table field using SQLite Database in Android Studio.
+# SQLite Database
 
 
 ## AIM:
