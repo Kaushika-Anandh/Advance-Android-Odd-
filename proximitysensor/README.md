@@ -1,38 +1,45 @@
-# Ex.No:5 Develop a simple application for proximity sensor using Sensor Manager in android studio.
-
+Exp.No : 05 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 22.05.2023 
+<br>
+# Proximity Sensor
 ## AIM:
-
 To develop a sensor application for proximity sensor using sensor manager in Android Studio.
-
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Min.required Artic Fox)
-
 ## ALGORITHM:
-
-Step 1: Open Android Stdio and then click on File -> New -> New project.
-
-Step 2: Then type the Application name as proximitysensor and click Next.
-
-Step 3: Then select the Minimum SDK as shown below and click Next.
-
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-
-Step 5: Design layout in activity_main.xml.
-
-Step 6: Display process of proximitysensor in android mobile devices.
-
-Step 7: Save and run the application.
+- **Step 1:** Open Android Stdio and then click on File -> New -> New project.
+- **Step 2:** Then type the Application name as proximitysensor and click Next.
+- **Step 3:** Then select the Minimum SDK as shown below and click Next.
+- **Step 4:** Then select the Empty Activity and click Next. Finally click Finish.
+- **Step 5:** Design layout in activity_main.xml.
+- **Step 6:** Display process of proximitysensor in android mobile devices.
+- **Step 7:** Save and run the application.
 
 ## PROGRAM:
+> Program to print the process of proximitysensor in android mobile devices<br> Developed by: Kaushika A <br> Registeration Number : 212221230048
 
-```
-/*
-Program to print the process of proximitysensor in android mobile devices”.
-Developed by: Kaushika A
-Registeration Number : 212221230048
-*/
-```
 
 ## MainActivity.java
 
@@ -86,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-## Activity.xml
+## activity_main.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -110,9 +117,11 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![](1.png)
-![](2.png)
-![](3.png)
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/proximitysensor/1.png" width="600" height="330">
+
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/proximitysensor/2.png" width="600" height="330">
+
+<img src="https://github.com/Kaushika-Anandh/Advance-Android-Odd-/blob/main/proximitysensor/3.png" width="250" height="440">
 
 ## RESULT
 
